@@ -2,11 +2,9 @@ name = Best Responsive
 description = Best Responsive is a premium Drupal 7 theme. Developed by <a href="http://www.devsaran.com">Devsaran.com</a>.
 core = 7.x
 engine = phptemplate
-stylesheets[all][] = css/bootstrap.min.css
 stylesheets[all][] = css/responsive.css
 stylesheets[all][] = style.css
 stylesheets[all][] = css/bootstrap_fixed.css
-scripts[] = js/bootstrap.min.js
 scripts[] = js/uniform.js
 scripts[] = js/superfish.js
 scripts[] = js/initialize.js
